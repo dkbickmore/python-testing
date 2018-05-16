@@ -3,7 +3,7 @@
 ##    
 
 
-string = "corey james balb <dkbickmore@gmail.com>"
+string = "derek kyle bickmore <dkbickmore@gmail.com>"
 
 start = string[::-1].find("<")
 end = len(string) - 1
